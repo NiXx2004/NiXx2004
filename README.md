@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Ismael Nicolas</h1>
+<h1 align="center">Hello, I'm Ismael Nicolas!</h1>
 
 <p align="center">
-  Developer • Data Engineering • Freelancer
+  Developer • Data • Freelancer
 </p>
 
 ---
