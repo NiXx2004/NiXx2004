@@ -10,22 +10,20 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,py,mysql,postgres,gcp,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,py,mysql,postgres,gcp,git,apple,fastapi,github,gitlab,,docker&perline=7" />
   </a>
 </div>
 
 ---
-### GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NiXx2004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiXx2004&layout=compact&langs_count=8&theme=dracula"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiXx2004&layout=compact&theme=dracula"/>
 
-</div>
-
----
+</p>
 
 ### Streak de Contribuições
 
